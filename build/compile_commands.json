@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/b/wsl/LabelRoboMasterTJU/remote test/build",
+  "command": "/usr/bin/c++  -I\"/mnt/b/wsl/LabelRoboMasterTJU/remote test/include\" -isystem /usr/local/opencv4.5.4/include/opencv4 -g -o CMakeFiles/remote_test.dir/main.cpp.o -c \"/mnt/b/wsl/LabelRoboMasterTJU/remote test/main.cpp\"",
+  "file": "/mnt/b/wsl/LabelRoboMasterTJU/remote test/main.cpp"
+},
+{
+  "directory": "/mnt/b/wsl/LabelRoboMasterTJU/remote test/build",
+  "command": "/usr/bin/c++  -I\"/mnt/b/wsl/LabelRoboMasterTJU/remote test/include\" -isystem /usr/local/opencv4.5.4/include/opencv4 -g -o CMakeFiles/remote_test.dir/src/server.cpp.o -c \"/mnt/b/wsl/LabelRoboMasterTJU/remote test/src/server.cpp\"",
+  "file": "/mnt/b/wsl/LabelRoboMasterTJU/remote test/src/server.cpp"
+},
+{
+  "directory": "/mnt/b/wsl/LabelRoboMasterTJU/remote test/build",
+  "command": "/usr/bin/c++  -I\"/mnt/b/wsl/LabelRoboMasterTJU/remote test/include\" -isystem /usr/local/opencv4.5.4/include/opencv4 -g -o CMakeFiles/remote_test.dir/src/client.cpp.o -c \"/mnt/b/wsl/LabelRoboMasterTJU/remote test/src/client.cpp\"",
+  "file": "/mnt/b/wsl/LabelRoboMasterTJU/remote test/src/client.cpp"
+}
+]
